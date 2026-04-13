@@ -2,7 +2,7 @@
 
 # 👋 你好, 我是 李子恒 (Li Ziheng)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=28A745&center=true&vCenter=true&width=435&lines=燕山大学+·+嵌入式系统+·+研二;无人机自主飞行控制研究者;燕之波社团核心成员" alt="Typing SVG" />
+**🎓 燕山大学 · 嵌入式系统 · 研二在读** | **🚁 无人机飞控研究者** | **⚡ 燕之波社团**
 
 ---
 
